@@ -3,7 +3,7 @@
 
 I'm Daniil. 
 
-* Working on Automoderation for video service at [Ozon](https://www.ozon.ru/)
+* Working on Automoderation for [Ozon](https://www.ozon.ru/)
   * Ex: Perception for Autonomous Vehicles at [Ozon.Tech](https://ozon.dev/)
   * Ex: Computer Vision for Mail/Cloud/Search at [Mail](https://mail.ru/)
 * Teaching a [Computer Vision course](https://github.com/lysukhin/MADE) for [MADE](https://data.mail.ru/)
