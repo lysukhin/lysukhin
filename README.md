@@ -1,11 +1,15 @@
-### Privet! 👋
+### Привет [privét]! 👋
 ---
 
 I'm Daniil. 
 
-* Working on Automoderation for [Ozon](https://www.ozon.ru/)
-  * Ex: Perception for Autonomous Vehicles at [Ozon.Tech](https://ozon.dev/)
-  * Ex: Computer Vision for Mail/Cloud/Search at [Mail](https://mail.ru/)
-* Teaching a [Computer Vision course](https://github.com/lysukhin/MADE) for [MADE](https://data.mail.ru/)
-* M.Sc. in Physics, Moscow State University (2017)
+* Work:
+  * Automoderation (TL) for [Ozon](https://www.ozon.ru/)
+  * Ex: Perception for Autonomous Vehicles @ [Ozon.Tech](https://ozon.dev/)
+  * Ex: Computer Vision for Mail/Cloud/Search @ [Mail](https://mail.ru/)
+* Teaching:
+  * Lectures / workshops for [Computer Vision course](https://github.com/lysukhin/vk-academy-dl-cv) @ [VK Data Academy](https://data.vk.company/)
+  * Workshops for [Machine Learning 3 course](https://github.com/lysukhin/ai-masters-ml3-seminars) @ [AI Masters](https://aimasters.ru/ml3)
+* Edu:
+  * M.Sc. in Physics, Moscow State University (2017)
 * I found bio containing emojis quite funny but awkward, so there's a couple of them at the end: 🚙 🤖 🧠
