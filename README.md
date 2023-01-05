@@ -12,4 +12,4 @@ I'm Daniil.
   * Workshops for [Machine Learning 3 course](https://github.com/lysukhin/ai-masters-ml3-seminars) @ [AI Masters](https://aimasters.ru/ml3)
 * Edu:
   * M.Sc. in Physics, Moscow State University (2017)
-* I found bio containing emojis quite funny but awkward, so there's a couple of them at the end: 🚙 🤖 🧠
+* I found bio containing emojis quite funny but awkward, so there's a couple of them at the end: ☮️ ☮️ ☮️
