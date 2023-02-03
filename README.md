@@ -4,7 +4,8 @@
 I'm Daniil. 
 
 * Work:
-  * Automoderation (TL) @ [Ozon.Tech](https://ozon.dev/)
+  * Perception for Autonomous Vehicles @ [EvoCargo](https://evocargo.com)
+  * Ex: Automoderation (TL) @ [Ozon.Tech](https://ozon.dev/)
   * Ex: Perception for Autonomous Vehicles @ [Ozon.Tech](https://ozon.dev/)
   * Ex: Computer Vision @ [mail.ru](https://mail.ru/) / [mail cloud](https://cloud.mail.ru) / etc
   * More projects on [LinkedIn](https://www.linkedin.com/in/lysukhin/)
