@@ -4,7 +4,7 @@
 I'm Daniil. 
 
 * Work:
-  * Perception for Autonomous Vehicles @ [EvoCargo](https://evocargo.com)
+  * LiDAR Perception (TL) for SDC @ [EvoCargo](https://evocargo.com)
   * Ex: 
     * Perception for Autonomous Vehicles @ [Ozon.Robotics](https://ozon.dev/)
     * Automoderation (TL) @ [Ozon.Tech](https://ozon.dev/)
