@@ -4,9 +4,9 @@
 I'm Daniil. 
 
 * Work:
-  * LiDAR Perception (TL) for SDC @ [EvoCargo](https://evocargo.com)
+  * LiDAR Perception (TL) for self-driving cars @ [EvoCargo](https://evocargo.com)
   * Ex: 
-    * Perception for Autonomous Vehicles @ [Ozon.Robotics](https://ozon.dev/)
+    * Perception for self-driving cars @ [Ozon.Robotics](https://ozon.dev/)
     * Automoderation (TL) @ [Ozon.Tech](https://ozon.dev/)
     * Computer Vision @ [mail](https://mail.ru/) / [mail cloud](https://cloud.mail.ru) / etc
   * More projects on [LinkedIn](https://www.linkedin.com/in/lysukhin/)
