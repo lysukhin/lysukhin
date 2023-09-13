@@ -8,7 +8,7 @@ I'm Daniil.
   * Ex: 
     * Perception for Autonomous Vehicles @ [Ozon.Robotics](https://ozon.dev/)
     * Automoderation (TL) @ [Ozon.Tech](https://ozon.dev/)
-    * Computer Vision @ [mail.ru](https://mail.ru/) / [mail cloud](https://cloud.mail.ru) / etc
+    * Computer Vision @ [mail](https://mail.ru/) / [mail cloud](https://cloud.mail.ru) / etc
   * More projects on [LinkedIn](https://www.linkedin.com/in/lysukhin/)
 * Teaching:
   * Ex: Workshops for [ML3 course](https://github.com/lysukhin/ai-masters-ml3-seminars) @ [AI Masters](https://aimasters.ru/ml3)
