@@ -8,8 +8,8 @@ I'm Daniil, a ML/DL applied research engineer for (mostly) Computer Vision.
   * Research of ML (DL, MIL, etc) applications for histopathological WSI data @ [Endocrinology Research Center](https://www.endocrincentr.ru/departments/mezhinstitutskie-podrazdeleniya/otdel-fundamentalnoy-patomorfologii)
   * Ex: 
     * Perception for self-driving cars @ [Ozon.Robotics](https://ozon.dev/)
-    * Automoderation (TL) @ [Ozon.Tech](https://ozon.dev/)
-    * Computer Vision @ [mail](https://mail.ru/) / [mail cloud](https://cloud.mail.ru) / etc
+    * Automoderation TL @ [Ozon.Tech](https://ozon.dev/)
+    * Computer Vision engineer @ [mail](https://mail.ru/) / [mail cloud](https://cloud.mail.ru) / etc
   * More projects on [LinkedIn](https://www.linkedin.com/in/lysukhin/)
 * Teaching:
   * Ex: Workshops for [ML3 course](https://github.com/lysukhin/ai-masters-ml3-seminars) @ [AI Masters](https://aimasters.ru/ml3)
