@@ -4,7 +4,7 @@
 I'm Daniil, a ML/DL applied research engineer for (mostly) Computer Vision.
 
 * Work:
-  * Team Leading of ML team for autonomous trucks Perception (LiDAR + cameras) @ [EvoCargo](https://evocargo.com)
+  * Team Leading of ML team for autonomous trucks Perception (LiDAR + cameras) @ [EvoCargo](https://evocargo.com/en/)
   * Research of ML (DL, MIL, etc) applications for histopathological WSI data @ [Endocrinology Research Center](https://www.endocrincentr.ru/departments/mezhinstitutskie-podrazdeleniya/otdel-fundamentalnoy-patomorfologii)
   * Ex: 
     * Perception for self-driving cars @ [Ozon.Robotics](https://ozon.dev/)
