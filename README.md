@@ -1,10 +1,11 @@
 ### Привет [privét]! 👋
 ---
 
-I'm Daniil. 
+I'm Daniil, a ML/DL applied research engineer for (mostly) Computer Vision.
 
 * Work:
-  * LiDAR Perception (TL) for self-driving cars @ [EvoCargo](https://evocargo.com)
+  * Team Leading of ML team for autonomous trucks Perception (LiDAR + cameras) @ [EvoCargo](https://evocargo.com)
+  * Research of ML (DL, MIL, etc) applications for histopathological WSI data @ [Endocrinology Research Center](https://www.endocrincentr.ru/departments/mezhinstitutskie-podrazdeleniya/otdel-fundamentalnoy-patomorfologii)
   * Ex: 
     * Perception for self-driving cars @ [Ozon.Robotics](https://ozon.dev/)
     * Automoderation (TL) @ [Ozon.Tech](https://ozon.dev/)
@@ -15,4 +16,5 @@ I'm Daniil.
   * Ex: Workshops / Lectures for [Deep Learning / Computer Vision course](https://github.com/lysukhin/vk-academy-dl-cv) @ [VK Data Academy](https://data.vk.company/)
 * Edu:
   * M.Sc. in Physics, Moscow State University (2017)
+  * B.Sc. in Physics, Moscow State University (2015) 
 * I found bio containing emojis quite funny but awkward, so there's a couple of them at the end: ☮️ ☮️ ☮️
